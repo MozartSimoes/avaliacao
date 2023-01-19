@@ -1,5 +1,6 @@
 # avaliacao
 Efetuei todos os testes na mesma página com apenas um arquivo js externo. Todos estão funcionando na tela;
+Para testar somente precisa baixar os dois arquivos na mesma pasta e abrir o html no browser;
 
 Abaixo resultado da questão 6:
 
